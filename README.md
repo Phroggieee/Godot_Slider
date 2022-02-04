@@ -1,2 +1,2 @@
 # Godot_Slider
-an ice based checkpoint collector i produced during my course
+An ice based checkpoint collector i produced during my course
